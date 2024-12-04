@@ -128,6 +128,5 @@ int main(){
 	else {
 		cout << "\nGir Oftadi :(";
 	}
-	cin.get();
 }
 
