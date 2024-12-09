@@ -43,7 +43,4 @@ int main()
 	if (c_2 == 1) {
 		cout << pr_num;
 	}
-	else {
-		c_2 = 0;
-	}
 }
